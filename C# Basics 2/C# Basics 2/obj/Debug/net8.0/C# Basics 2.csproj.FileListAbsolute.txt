@@ -1,0 +1,14 @@
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\bin\Debug\net8.0\C# Basics 2.exe
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\bin\Debug\net8.0\C# Basics 2.deps.json
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\bin\Debug\net8.0\C# Basics 2.runtimeconfig.json
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\bin\Debug\net8.0\C# Basics 2.dll
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\bin\Debug\net8.0\C# Basics 2.pdb
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\obj\Debug\net8.0\C# Basics 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\obj\Debug\net8.0\C# Basics 2.AssemblyInfoInputs.cache
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\obj\Debug\net8.0\C# Basics 2.AssemblyInfo.cs
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\obj\Debug\net8.0\C# Basics 2.csproj.CoreCompileInputs.cache
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\obj\Debug\net8.0\C# Basics 2.dll
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\obj\Debug\net8.0\refint\C# Basics 2.dll
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\obj\Debug\net8.0\C# Basics 2.pdb
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\obj\Debug\net8.0\C# Basics 2.genruntimeconfig.cache
+C:\Users\firas\source\repos\C# Basics 2\C# Basics 2\obj\Debug\net8.0\ref\C# Basics 2.dll
